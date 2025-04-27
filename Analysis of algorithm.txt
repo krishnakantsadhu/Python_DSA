@@ -1,0 +1,7 @@
+Following things need to be consider for analysis of algorithm
+
+1) Time Complexity
+2) Space Complexity
+3) Network consumption (now a days application is web based, cloud base)
+4) Power consumption
+6) CPU register

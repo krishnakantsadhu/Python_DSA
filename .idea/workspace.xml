@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="595bebb1-eace-41bd-b249-4ab120e17e43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bubble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Insertion_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selection_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shift_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Smallest_num_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monkey_door.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radix_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIme_Complexity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quick_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Binary_search.executor": "Run",
     "Python.Bubble.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.Insertion_sort.executor": "Run",
@@ -54,9 +49,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/krishnakantsadhu/project_work/python/Python_DSA",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
